@@ -38,17 +38,15 @@ I love building robotic systems, designing custom PCBs, and exploring new ways t
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clementora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Clement's GitHub Stats" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clementora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Clement's GitHub Stats" />
+  <br/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clementora&theme=tokyonight&hide_border=true&background=0D1117" alt="Clement's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Clement's Top Languages" />
-</p>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Clement's Top Languages" />
+</div>
 
 ---
 
