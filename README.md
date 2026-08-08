@@ -8,12 +8,12 @@ I love building robotic systems, designing custom PCBs, and exploring new ways t
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **a drone simulation framework using ROS 2 and PX4 for a monocopter**, and a **multi-sensor visual servoing and docking package for a BlueROV2**.
-- 🌱 I’m currently diving deeper into **PCB design, control systems theory, Extended Kalman Filter (EKF) tracking, and Gazebo simulations**.
-- 👯 I’m looking to collaborate on **open-source robotics software, custom GUI applications in C++, and embedded hardware projects**.
-- 💬 Ask me about **ROS 2, electronics hardware, C++/Python development**
-- 📫 How to reach me: **orangoclement50@gmail.com**
-- ⚡ Fun fact: **When I'm not routing PCBs or writing C++, I'm probably hiking and figuring out the optimal shock-cord configuration to strap a full-size sleeping bag to a mini hiking backpack!**
+- 🔭 **Working on:** ROS 2 & PX4 monocopter simulations | BlueROV2 visual servoing & docking
+- 🌱 **Learning:** PCB design | Control systems | EKF tracking | Gazebo
+- 👯 **Collaborating on:** Open-source robotics | C++ GUIs | Embedded hardware
+- 💬 **Ask me about:** ROS 2 | Electronics | C++ & Python
+- 📫 **Contact:** **orangoclement50@gmail.com**
+- ⚡ **Fun fact:** I treat my hiking gear like an engineering problem—when I'm off the computer, I'm usually figuring out how to strap a massive sleeping bag to a mini backpack!
 
 ---
 
