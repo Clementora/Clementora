@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Clement Orango
+#👋 I'm Clement 
 
 ### A passionate Robotics Master's Student and Electronics Enthusiast 🤖💻
 
